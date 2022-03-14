@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aseguradora.API", "AseguradoraAPI\Aseguradora.API.csproj", "{C8BA22B7-4F68-4089-BAFA-7AE1AF59D336}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aseguradora.BL", "Aseguradora.BL\Aseguradora.BL.csproj", "{4370B273-CD61-464E-AA2E-5D848E127C36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8BA22B7-4F68-4089-BAFA-7AE1AF59D336}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8BA22B7-4F68-4089-BAFA-7AE1AF59D336}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8BA22B7-4F68-4089-BAFA-7AE1AF59D336}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8BA22B7-4F68-4089-BAFA-7AE1AF59D336}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4370B273-CD61-464E-AA2E-5D848E127C36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4370B273-CD61-464E-AA2E-5D848E127C36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4370B273-CD61-464E-AA2E-5D848E127C36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4370B273-CD61-464E-AA2E-5D848E127C36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D07FD874-58B2-4315-B0B7-ACCD1D90214A}
+	EndGlobalSection
+EndGlobal
